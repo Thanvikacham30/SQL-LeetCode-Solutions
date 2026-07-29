@@ -33,7 +33,7 @@ Each solution includes:
 | ✅ Day 7 | Article Views I | Easy |
 | ✅ Day 8 | Invalid Tweets | Easy |
 | ✅ Day 9 | Biggest Single Number | Easy |
-
+| ✅ Day 10 | Project Employees I | Easy |
 ---
 
 ## 💻 Database
