@@ -35,6 +35,7 @@ Each solution includes:
 | ✅ Day 9 | Biggest Single Number | Easy |
 | ✅ Day 10 | Project Employees I | Easy |
 | ✅ Day 11 | Employee Bonus | Easy |
+| ✅ Day 12 | Sales Analysis III | Easy |
 
 ## 💻 Database
 
