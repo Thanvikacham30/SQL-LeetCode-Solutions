@@ -39,6 +39,7 @@ Each solution includes:
 | ✅ Day 13 | Classes With at Least 5 Students | Easy |
 | ✅ Day 14 | Customers Who Never Order | Easy |
 | ✅ Day 15 | Actors and Directors Who Cooperated At Least Three Times | Easy |
+| ✅ Day 16 | Employees Earning More Than Their Managers | Easy |
 
 
 ## 💻 Database
