@@ -43,30 +43,6 @@ Each solution includes:
 
 ---
 
-# 📁 Solved Problems
-
-| Day | Problem No. | Problem | Difficulty | Solution |
-|:---:|:-----------:|---------|:----------:|:--------:|
-| ✅ Day 1 | 175 | Combine Two Tables | 🟢 Easy | [💻 View](175_Combine_Two_Tables.sql) |
-| ✅ Day 2 | 584 | Find Customer Referee | 🟢 Easy | [💻 View](584_Find_Customer_Referee.sql) |
-| ✅ Day 3 | 586 | Customer Placing the Largest Number of Orders | 🟢 Easy | [💻 View](586_Customer_Placing_the_Largest_Number_of_Orders.sql) |
-| ✅ Day 4 | 595 | Big Countries | 🟢 Easy | [💻 View](595_Big_Countries.sql) |
-| ✅ Day 5 | 1757 | Recyclable and Low Fat Products | 🟢 Easy | [💻 View](1757_Recyclable_and_Low_Fat_Products.sql) |
-| ✅ Day 6 | 182 | Duplicate Emails | 🟢 Easy | [💻 View](182_Duplicate_Emails.sql) |
-| ✅ Day 7 | 1148 | Article Views I | 🟢 Easy | [💻 View](1148_Article_Views_I.sql) |
-| ✅ Day 8 | 1683 | Invalid Tweets | 🟢 Easy | [💻 View](1683_Invalid_Tweets.sql) |
-| ✅ Day 9 | 619 | Biggest Single Number | 🟢 Easy | [💻 View](619_Biggest_Single_Number.sql) |
-| ✅ Day 10 | 1075 | Project Employees I | 🟢 Easy | [💻 View](1075_Project_Employees_I.sql) |
-| ✅ Day 11 | 577 | Employee Bonus | 🟢 Easy | [💻 View](577_Employee_Bonus.sql) |
-| ✅ Day 12 | 1084 | Sales Analysis III | 🟢 Easy | [💻 View](1084_Sales_Analysis_III.sql) |
-| ✅ Day 13 | 596 | Classes More Than 5 Students | 🟢 Easy | [💻 View](596_Classes_More_Than_5_Students.sql) |
-| ✅ Day 14 | 183 | Customers Who Never Order | 🟢 Easy | [💻 View](183_Customers_Who_Never_Order.sql) |
-| ✅ Day 15 | 1050 | Actors and Directors Who Cooperated At Least Three Times | 🟢 Easy | [💻 View](1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) |
-| ✅ Day 16 | 181 | Employees Earning More Than Their Managers | 🟢 Easy | [💻 View](181_Employees_Earning_More_Than_Their_Managers.sql) |
-
----
----
-
 # 🚀 Purpose
 
 This repository is part of my SQL learning journey where I:
