@@ -86,7 +86,9 @@ Your support motivates me to continue solving and sharing more SQL problems.
 
 <div align="center">
   
-> **"Good SQL isn't just about retrieving data—it's about asking the right questions."**
+> **"Consistency is the key to mastering SQL."**
+
+</div>
 
 ```sql
 SELECT
@@ -96,9 +98,10 @@ SELECT
 FROM learning
 WHERE goal = 'Master SQL';
 ```
-
+<div align="center">
+  
 ### Learn • Query • Optimize • Repeat
 
-**Happy Learning & Happy Querying! 🚀**
+**Happy Querying! 🚀**
 
 </div>
