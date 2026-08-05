@@ -1,6 +1,7 @@
 -- LeetCode 196
 -- Delete Duplicate Emails
 -- Difficulty: Easy
+-- Link: https://leetcode.com/problems/delete-duplicate-emails/
 
 -- Write a solution to delete all duplicate emails, keeping only one unique email with the smallest id.
 
