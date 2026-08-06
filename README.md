@@ -41,7 +41,7 @@ Each solution includes:
 | ✅ Day 15 | 1050 | Actors and Directors Who Cooperated At Least Three Times | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) |
 | ✅ Day 16 | 181 | Employees Earning More Than Their Managers | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/181_Employees_Earning_More_Than_Their_Managers.sql) |
 | ✅ Day 17 | 196 | Delete Duplicate Emails | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/196_Delete_Duplicate_Emails.sql) |
-
+| ✅ Day 18 | 197 | Rising Temperature | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/197_Rising_Temperature.sql) |
 
 ---
 
