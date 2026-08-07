@@ -42,6 +42,7 @@ Each solution includes:
 | ✅ Day 16 | 181 | Employees Earning More Than Their Managers | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/181_Employees_Earning_More_Than_Their_Managers.sql) |
 | ✅ Day 17 | 196 | Delete Duplicate Emails | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/196_Delete_Duplicate_Emails.sql) |
 | ✅ Day 18 | 197 | Rising Temperature | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/197_Rising_Temperature.sql) |
+| ✅ Day 19 | 184 | Department Highest Salary | 🟡 Medium | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Medium/184_Department_Highest_Salary.sql) |
 
 ---
 
