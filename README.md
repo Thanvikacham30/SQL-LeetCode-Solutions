@@ -43,6 +43,7 @@ Each solution includes:
 | ✅ Day 17 | 196 | Delete Duplicate Emails | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/196_Delete_Duplicate_Emails.sql) |
 | ✅ Day 18 | 197 | Rising Temperature | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/197_Rising_Temperature.sql) |
 | ✅ Day 19 | 184 | Department Highest Salary | 🟡 Medium | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Medium/184_Department_Highest_Salary.sql) |
+| ✅ Day 20 | 570 | Managers with at Least 5 Direct Reports | 🟡 Medium | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Medium/570_Managers_with_at Least_5_Direct_Reports.sql) |
 
 ---
 
