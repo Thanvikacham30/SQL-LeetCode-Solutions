@@ -45,9 +45,10 @@ Each solution includes:
 | ✅ Day 19 | 184 | Department Highest Salary | 🟡 Medium | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Medium/184_Department_Highest_Salary.sql) |
 | ✅ Day 20 | 570 | Managers with at Least 5 Direct Reports | 🟡 Medium | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Medium/570_Managers_with_at_Least_5_Direct_Reports.sql) |
 | ✅ Day 21 | 1045 | Customers Who Bought All Products | 🟡 Medium | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Medium/1045_Customers_Who_Bought_All_Products.sql) |
+| ✅ Day 22 | 511 | Game Play Analysis I | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/511_Game_Play_Analysis.sql) |
 
-
-
+LeetCode 511
+-- Game Play Analysis I
 # 🚀 Purpose
 
 This repository is part of my SQL learning journey where I:
