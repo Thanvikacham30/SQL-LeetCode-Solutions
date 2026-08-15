@@ -48,7 +48,7 @@ Each solution includes:
 | ✅ Day 22 | 511 | Game Play Analysis I | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/511_Game_Play_Analysis_I.sql) |
 | ✅ Day 23 | 620 | Not Boring Movies | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/620_Not_Boring_Movies.sql) |
 | ✅ Day 24 | 1068 | Not Boring Movies | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1068_Product_Sales_Analysis_I.sql) |
-
+Solved LeetCode 1729-Find Followers Count
 
 # 🚀 Purpose
 
