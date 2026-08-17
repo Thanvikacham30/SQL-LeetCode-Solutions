@@ -52,6 +52,7 @@ Each solution includes:
 | ✅ Day 26 | 1378 | Replace Employee ID With The Unique Identifier | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1378_Replace_Employee_ID_With_The_Unique_Identifier.sql) |
 | ✅ Day 27 | 1581 | Customer Who Visited but Did Not Make Any Transactions | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) |
 | ✅ Day 28 | 1211 | Queries Quality and Percentage | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1211_Queries_Quality_and_Percentage.sql) |
+| ✅ Day 29 | 1667 | Fix Names in a Table | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1667_Fix_Names_in_a_Table.sql) |
 
 
 # 🚀 Purpose
