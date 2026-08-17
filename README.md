@@ -51,6 +51,7 @@ Each solution includes:
 | ✅ Day 25 | 1729 | Find Followers Count | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1729_Find_Followers_Count.sql) |
 | ✅ Day 26 | 1378 | Replace Employee ID With The Unique Identifier | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1378_Replace_Employee_ID_With_The_Unique_Identifier.sql) |
 | ✅ Day 27 | 1581 | Customer Who Visited but Did Not Make Any Transactions | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) |
+| ✅ Day 28 | 1211 | Queries Quality and Percentage | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1211_Queries_Quality_and_Percentage.sql) |
 
 
 # 🚀 Purpose
