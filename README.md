@@ -53,8 +53,10 @@ Each solution includes:
 | ✅ Day 27 | 1581 | Customer Who Visited but Did Not Make Any Transactions | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) |
 | ✅ Day 28 | 1211 | Queries Quality and Percentage | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1211_Queries_Quality_and_Percentage.sql) |
 | ✅ Day 29 | 1667 | Fix Names in a Table | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1667_Fix_Names_in_a_Table.sql) |
+| ✅ Day 30 | 176 | Second Highest Salary | 🟡 Medium | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Medium/176_Second_Highest_Salary.sql) |
+| ✅ Day 31 | 1407 | Top Travellers | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1407_Top_Travellers.sql) |
 
-1407_Top_Travellers.sql
+
 
 # 🚀 Purpose
 
