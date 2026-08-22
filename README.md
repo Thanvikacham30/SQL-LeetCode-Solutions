@@ -54,6 +54,7 @@ Each solution includes:
 | ✅ Day 28 | 1211 | Queries Quality and Percentage | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1211_Queries_Quality_and_Percentage.sql) |
 | ✅ Day 29 | 1667 | Fix Names in a Table | 🟢 Easy | [💻 View](https://github.com/Thanvikacham30/SQL-LeetCode-Solutions/blob/main/Easy/1667_Fix_Names_in_a_Table.sql) |
 
+1407_Top_Travellers.sql
 
 # 🚀 Purpose
 
