@@ -9,7 +9,7 @@ This folder contains my solutions to **LeetCode SQL** problems. The goal of this
 
 ---         
           
-# 🎯 What You'll Find
+# 🎯 What You'll Find  
 
 Each solution includes:
 
