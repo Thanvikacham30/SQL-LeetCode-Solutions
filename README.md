@@ -6,7 +6,7 @@ Welcome to the **SQL Solutions** section of my **LeetCode SQL Solutions** reposi
 https://github.com/Thanvikacham30/SQL-LeetCode-Solutions
 
 This folder contains my solutions to **LeetCode SQL** problems. The goal of this repository is to strengthen my SQL skills through consistent practice while documenting clean, readable, and efficient SQL queries.
-
+        
 ---         
           
 # 🎯 What You'll Find  
