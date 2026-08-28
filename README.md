@@ -1,4 +1,4 @@
-# LeetCode SQL Solutions 
+# LeetCode SQL Solutions   
 
 Welcome to the **SQL Solutions** section of my **LeetCode SQL Solutions** repository.
 
